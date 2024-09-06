@@ -14,24 +14,5 @@
 
 <h2 align="center">🚀 About me</h2>
 <p align="justify">
-  Technician in Computer Science at the Federal Institute of Rio Grande do Norte, and currently studying for a Bachelor's Degree in Computer Science at the Federal University of Rio Grande do Norte. He has experience as a lab monitor and in software development, with an emphasis on distributed programming and requirements analysis. Organized, proactive, actively participates in projects and decision-making. His main interest is in the field of computing, but he is willing and prepared to work in other areas.
-</p>
-
-<br>
-<br>
-
-<h2 align="center">💻 Tech stack</h2>
-<h3><b>Back-end</b></h3>
-<p>
-  Java<br>SpringBoot <br>MySQL <br>
-</p>
-
-<h3><b>Front-end</b></h3>
-<p>
-  HTML and CSS <br>JavaScript <br>
-</p>
-
-<h3><b>Tools</b></h3>
-<p>
-Git and Github <br>VSCode and IntelliJ IDEA <br>Figma <br>
+  Technician in Computer Science at the Instituto Federal do Rio Grande do Norte, and currently studying for a Bachelor's Degree in Computer Science at the Universidade University do Rio Grande do Norte. He has experience as a lab monitor and in software development, with an emphasis on distributed programming and requirements analysis. Organized, proactive, actively participates in projects and decision-making. His main interest is in the field of computing, but he is willing and prepared to work in other areas.
 </p>
