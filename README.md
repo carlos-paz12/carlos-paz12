@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hello, World! 👋 </h1>
 
 <hr>
@@ -15,7 +14,7 @@
 
 <h2 align="center">🚀 About me</h2>
 <p align="justify">
-  He has a degree in Computer Technician from the Instituto Federal do Rio Grande do Norte, Santa Cruz campus. He is currently studying for a Bachelor's degree in Computer Science at the Universidade Federal do Rio Grande do Norte. He has experience in the development of digital systems, with an emphasis on distributed programming and requirements analysis.
+  Technician in Computer Science at the Federal Institute of Rio Grande do Norte, and currently studying for a Bachelor's Degree in Computer Science at the Federal University of Rio Grande do Norte. He has experience as a lab monitor and in software development, with an emphasis on distributed programming and requirements analysis. Organized, proactive, actively participates in projects and decision-making. His main interest is in the field of computing, but he is willing and prepared to work in other areas.
 </p>
 
 <br>
