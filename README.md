@@ -1,2 +1,2 @@
-> [!NOTE]
-> To see more, click [here](https://gitlab.com/carlos-paz12) 👀
+> [!TIP]
+> See [this](https://gitlab.com/carlos-paz12) for more details 👀
